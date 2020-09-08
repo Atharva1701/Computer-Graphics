@@ -1,6 +1,6 @@
 # Computer Graphics
-Some assignments from second year engineering 
-Bresenham Circle Drawing Algorithm
-Sine Wave
-Koch curve snowflake
-Bézier curve Flower
+<br>*Some assignments from second year engineering* 
+<br>Bresenham Circle Drawing Algorithm
+<br>Sine Wave
+<br>Koch curve snowflake
+<br>Bézier curve Flower
